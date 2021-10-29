@@ -1,8 +1,8 @@
-## Eventos donde se utilizó WIMUMO 
-
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo';">
 Página principal
 </button>
+
+## Eventos donde se utilizó WIMUMO
 
 ### Performance en el Museo Pettoruti
 
