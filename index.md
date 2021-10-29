@@ -24,6 +24,8 @@ Para que podamos contraer un músculo es necesaria una cadena de eventos que com
 
 El corazón es un gran músculo y tiene su propio “marcapasos” que genera estos potenciales de acción al ritmo del latido y le da esa forma tan particular al ECG. El electromiograma (EMG) en cambio, que proviene del proceso descripto anteriormete al moverse o intentar mover los músculos, es menos conocido y su forma es más extraña. Se compone de la superposición de muchos potenciales de acción que corren por nervios y fibras musculares, y por lo tanto se ve como un conjunto de “púas” que crece a medida que realizamos más esfuerzo. Los músculos de brazos, piernas, rostro, etc, reciben estas señales según nuestra voluntad y mueven el cuerpo. Todo esto nos mantiene con vida y nos permite trabajar, comer, jugar, bailar.
 
-![Image of EMG signal](emg-300x93.png)
+![Image of EMG signal](images/emg-300x93.png)
 
-![Foto de WIMUMO en el brazo](medidaBrazoEquipo-768x512.jpg)
+![Foto de WIMUMO en el brazo](images/medidaBrazoEquipo-768x512.jpg)
+
+
