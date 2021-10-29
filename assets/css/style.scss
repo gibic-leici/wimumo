@@ -1,5 +1,7 @@
 ---
 ---
-@import "background-color: black;";
+@import"{{ site.theme }}";
 
-
+.body {
+background-color: black;
+}
