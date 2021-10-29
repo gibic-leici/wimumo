@@ -1,4 +1,4 @@
-## Adquisición de biopotenciales multi-modal inalámbrica 
+## FUSIÓN 2020 - WIMUMO: El impulso neuromuscular como experiencia
 
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/presentaciones';">
 Presentaciones
