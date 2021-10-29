@@ -1,4 +1,4 @@
-## Proyecto WIMUMO 
+## Eventos donde se utilizó WIMUMO 
 
 [button url="https://gibic-leici.github.io/wimumo"]
 
