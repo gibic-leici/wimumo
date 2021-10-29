@@ -24,20 +24,8 @@ Para que podamos contraer un músculo es necesaria una cadena de eventos que com
 
 El corazón es un gran músculo y tiene su propio “marcapasos” que genera estos potenciales de acción al ritmo del latido y le da esa forma tan particular al ECG. El electromiograma (EMG) en cambio, que proviene del proceso descripto anteriormete al moverse o intentar mover los músculos, es menos conocido y su forma es más extraña. Se compone de la superposición de muchos potenciales de acción que corren por nervios y fibras musculares, y por lo tanto se ve como un conjunto de “púas” que crece a medida que realizamos más esfuerzo. Los músculos de brazos, piernas, rostro, etc, reciben estas señales según nuestra voluntad y mueven el cuerpo. Todo esto nos mantiene con vida y nos permite trabajar, comer, jugar, bailar.
 
-![Image of EMG signal](images/emg-300x93.png)\
-*Imagen de una señal de electromiograma (EMG)*
+![Image of EMG signal](images/emg-300x93.png)
 
-![Foto de WIMUMO en el brazo](images/medidaBrazoEquipo-768x512.jpg)\
-*Un electrodo “activo” colocado en el atebrazo para medir las señales de los músculos que mueven los dedos*
+![Foto de WIMUMO en el brazo](images/medidaBrazoEquipo-768x512.jpg)
 
-Cuando los biopotenciales son muy fuertes o pasan muy cerca de la piel, pueden captarse colocando electrodos apoyados en la superficie de la piel. Los electrodos “traducen” los biopotenciales del interior del cuerpo en señales electrónicas que pueden medirse con instrumentos de precisión electrónicos. Justamente el grupo GIBIC del Instituto LEICI (dependiente de la UNLP y CONICET) trabaja en la investigación de estos instrumentos electrónicos que miden biopotenciales, un área donde la ingeniería electrónica y en computación aportan a la ingeniería biomédica.
 
-### De la medida de biopotenciales a la música
-
-Para utilizar los biopotenciales en performances u obras artísticas de cualquier tipo, WIMUMO mide las señales musculares y cardíacas, y las procesa digitalmente para obtener la “actividad promedio” observada en cada señal, conocida como envolvente. Esta envolvente es una indicación clara de la fuerza realizada con uno o varios músculos. WIMUMO la envía a programas de generación de música o video y entonces, por ejemplo, puede usarse para subir o bajar el volumen de una nota musical. De esa manera, cuando una persona en una performance se mueve, o, estando inmóvil, realiza esfuerzo con sus músculos, puede crear distintos sonidos.
-
-![Foto de WIMUMO en el brazo](images/envolv1-300x140.png)\
-*Se mide la señal de EMG y se obtiene la “envolvente” que representa el esfuerzo*
-
-![Foto de WIMUMO en el brazo](images/envolv2-300x186.png)\
-*Una visión “técnica” de la obtención de la envolvente*
