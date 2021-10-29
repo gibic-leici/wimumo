@@ -1,16 +1,18 @@
 ## Que es WIMUMO
 
+---
+
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/';">
 Noviembre Electrónico
 </button>
-
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/quees';">
 ¿Qué es WIMUMO?
 </button>
-
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/presentaciones';">
 Presentaciones anteriores
 </button>
+
+---
 
 WIMUMO es un dispositivo inalámbrico capaz de medir las señales eléctricas del cuerpo. La señal electro-fisiológica o biopotencial  más conocida se ve en el electrocardiograma (ECG) que casi todas las personas se han hecho alguna vez, pero pueden medirse otras como las provenientes de los músculos (llamado electromiograma o EMG), cerebro (EEG), ojos (EOG).
 

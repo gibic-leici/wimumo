@@ -1,16 +1,18 @@
 ## FUSIÓN 2020 - WIMUMO: El impulso neuromuscular como experiencia
 
+---
+
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/';">
 Noviembre Electrónico
 </button>
-
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/quees';">
 ¿Qué es WIMUMO?
 </button>
-
 <button onclick="window.location.href='https://gibic-leici.github.io/wimumo/presentaciones';">
 Presentaciones anteriores
 </button>
+
+---
 
 Varias señales eléctricas denominadas biopotenciales habitan y recorren el cuerpo, como el conocido electrocardiograma o el electromiograma proveniente de los músculos. Estos biopotenciales pueden capturarse con un dispositivo con prototipos preexistentes creados por el grupo postulante llamado WIMUMO. La funcionalidad de este equipo es análoga a la de un instrumento musical, o multimedia, que puede ejecutarse a través de la medida de estos biopotenciales, enviando el contenido audiovisual generado a partir de las mismas por internet. El cerebro ejerce un control parcial sobre estas señales, ya que se vinculan también a procesos involuntarios que ocurren en el cuerpo, a estados físicos y de ánimo. Son en parte determinísticas y en parte aleatorias, por lo tanto, como instrumento, WIMUMO tiene la particularidad de reflejar estados voluntarios e involuntarios de la persona que lo usa y dar acceso a su “mundo interno” y posiblemente a su inconsciente.
 
