@@ -28,4 +28,12 @@ El corazón es un gran músculo y tiene su propio “marcapasos” que genera es
 
 ![Foto de WIMUMO en el brazo](images/medidaBrazoEquipo-768x512.jpg)
 
+Cuando los biopotenciales son muy fuertes o pasan muy cerca de la piel, pueden captarse colocando electrodos apoyados en la superficie de la piel. Los electrodos “traducen” los biopotenciales del interior del cuerpo en señales electrónicas que pueden medirse con instrumentos de precisión electrónicos. Justamente el grupo GIBIC del Instituto LEICI (dependiente de la UNLP y CONICET) trabaja en la investigación de estos instrumentos electrónicos que miden biopotenciales, un área donde la ingeniería electrónica y en computación aportan a la ingeniería biomédica.
 
+### De la medida de biopotenciales a la música
+
+Para utilizar los biopotenciales en performances u obras artísticas de cualquier tipo, WIMUMO mide las señales musculares y cardíacas, y las procesa digitalmente para obtener la “actividad promedio” observada en cada señal, conocida como envolvente. Esta envolvente es una indicación clara de la fuerza realizada con uno o varios músculos. WIMUMO la envía a programas de generación de música o video y entonces, por ejemplo, puede usarse para subir o bajar el volumen de una nota musical. De esa manera, cuando una persona en una performance se mueve, o, estando inmóvil, realiza esfuerzo con sus músculos, puede crear distintos sonidos.
+
+![Foto de WIMUMO en el brazo](images/envolv1-300x140.png)
+
+![Foto de WIMUMO en el brazo](images/envolv2-300x186.png)
