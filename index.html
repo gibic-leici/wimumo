@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" href="mvp.css">
+    <meta name="description" content="WIMUMO">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>WIMUMO</title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Principal</a></li>
+                <li><a href="/">Historia de uso de WIMUMO</a></li>
+                <li><a href="/">Detalles técnicos</a></li>
+                <li><a href="/">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <header>
+            <h1>¡Hola desde WIMUMO!</h1>
+            </header>
+            <aside>
+                <h3>Estado de WIMUMO</h3>
+        		<ul>
+					<li>Nivel de batería: <mark>%BAT%&#37;</mark></li>
+					<li>Conectado al WIFI con IP <mark>%IP_WIMUMO%</mark></li>
+					<li>Transmisión OSC <mark>desactivada</mark></li>
+				</ul>
+			</aside>            
+            <aside>
+                <h3>Configurar OSC<sup>lo más usado!</sup></h3>
+                <p>Desde aquí puede configurar la dirección IP de la computadora hacia donde WIMUMO enviará los paquetes OSC, y decidir qué enviar.</p>
+                <button onclick="location.href='configosc'" type="button">Configuración OSC</button>
+            </aside>
+            <aside>
+                <h3>Menú completo</h3>
+                <p>Acceda a todas aplicaciones, configuracion, y ayuda de WIMUMO desde el menú principal</p>
+                <br>
+                <button onclick="location.href='menu'" type="button">Menú</button>
+            </aside>           
+        </section>
+    </main>
+    <footer>
+        <hr>
+        <details>
+            <summary>Ayuda</summary>
+            <p>Esta es la página de "aterrizaje" de WIMUMO donde intentamos ofrecer 
+                una selección de la funcionalidad más utilizada, de acuerdo al 
+                estado detectado automáticamente del dispositivo. Si no encuentra 
+                aquí lo que busca, acceda al menú principal</p>
+        </details>
+         <p>
+		 <a href="http://gibic.ar/">GIBIC</a>, 2021.<br>Grupo de Instrumentación Biomédica, Industrial y Científica. <br>Instituto <b>LEICI</b> (UNLP-CONICET-CIC).
+		 </p>
+    </footer>
+</body>
+</html>
