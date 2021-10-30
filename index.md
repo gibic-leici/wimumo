@@ -25,4 +25,4 @@ Los períodos de cuarentena dieron lugar a nuevas formas de comunicación, que e
 
 El proyecto propone entonces usar WIMUMO para captar señales internas, esa confluencia de voluntad, cuerpo e inconsciente que quizás nutra un semblante que podamos sentir más próximo; pero sólo será posible si el arte, de manera interdisciplinaria, aporta los medios para transmitir esta información, convertirla en sensaciones, en vivencias, en una envoltura cálida que abrace con la sustancia de la persona como si su piel, aroma, roces, sonidos, gestualidad y la infinita riqueza de su presencia estuviesen, presentes. 
 
-
+![Perfo](images/ImageQuilt.png)\
