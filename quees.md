@@ -1,16 +1,8 @@
 ## Que es WIMUMO
 
----
-
-<button onclick="window.location.href='https://gibic-leici.github.io/wimumo/';">
-Noviembre Electrónico
-</button>
-<button onclick="window.location.href='https://gibic-leici.github.io/wimumo/quees';">
-¿Qué es WIMUMO?
-</button>
-<button onclick="window.location.href='https://gibic-leici.github.io/wimumo/presentaciones';">
-Presentaciones anteriores
-</button>
+[Noviembre Electrónico | ](https://gibic-leici.github.io/wimumo)
+[¿Qué es WIMUMO? | ](https://gibic-leici.github.io/wimumo/quees)
+[Presentaciones anteriores](https://gibic-leici.github.io/wimumo/presentaciones)
 
 ---
 
