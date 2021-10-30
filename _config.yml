@@ -2,5 +2,11 @@ remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: "FUSIÓN 2020 - WIMUMO: El impulso neuromuscular como experiencia"
-logo: images/personaPoster_3.png
-show_downloads: false
+#logo: images/personaPoster_3.png
+#show_downloads: false
+
+baseurl: '/wimumo'
+timezone: America/Argentina/Buenos_Aires	
+theme_mode: dark
+avatar: images/personaPoster_3.png
+
