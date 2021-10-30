@@ -2,8 +2,8 @@
 
 ---
 
->[Noviembre Electrónico](https://gibic-leici.github.io/wimumo)
->[¿Qué es WIMUMO?](https://gibic-leici.github.io/wimumo/quees)
+>[Noviembre Electrónico | ](https://gibic-leici.github.io/wimumo)
+>[¿Qué es WIMUMO? | ](https://gibic-leici.github.io/wimumo/quees)
 >[Presentaciones anteriores](https://gibic-leici.github.io/wimumo/presentaciones)
 
 ---
