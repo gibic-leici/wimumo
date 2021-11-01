@@ -202,12 +202,11 @@ header .logo
     padding: 40px;
   }
 
-  .showcase
+  .showcase text 
   {
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-top:20px;
   }
-  
+
   .showcase header
   {
     padding: 40px;
