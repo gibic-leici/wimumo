@@ -104,6 +104,16 @@ header .logo
   line-height: 1em;
   text-transform: uppercase;
 }
+
+.text h4
+{
+  font-size: 2em;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1em;
+  text-transform: uppercase;
+}
+
 .text p
 {
   font-size: 1.1em;
@@ -187,7 +197,17 @@ header .logo
 
 @media (max-width: 991px)
 {
-  .showcase,
+  .showcase header
+  {
+    padding: 40px;
+  }
+
+  .showcase
+  {
+  padding-left: 40px;
+  padding-right: 40px;
+  }
+  
   .showcase header
   {
     padding: 40px;
@@ -200,4 +220,12 @@ header .logo
   {
     font-size: 2em;
   }
+}
+
+
+
+figcaption {
+  color: white;
+  font-style: italic;
+  padding: 2px;
 }
