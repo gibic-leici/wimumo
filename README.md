@@ -1,5 +1,9 @@
 # WIMUMO Pulse
 
+WIMUMO Pulse is a derivarion of the WIMUMO project in collaboration with [Joaquín Fargas](http://www.joaquinfargas.com/) by which we can transmit the beating heart of a person directly to the hands of hundreds of others, in a way which allows feeling it synesthesically by visual, sonorous, and tactile cues. 
+
+# What is WIMUMO? 
+
 WIMUMO is a wireless device capable of measuring electrical signals from the body. The most well-known electrophysiological or biopotential signal is the electrocardiogram (ECG) that almost everyone has experiences at a doctor's office at some point. But other biopotentials can also be measured, such as those coming from the muscles (called electromyogram or EMG), brain (EEG) or eyes (EOG).
 
 ![An ECG](/images/ecg-2.png)
