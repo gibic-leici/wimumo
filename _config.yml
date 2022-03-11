@@ -1,7 +1,7 @@
 remote_theme: tuur29/pages-themes-cayman
 description: ""
 show_downloads: false
-darkmode: true
+darkmode: false
 logo_url: /images/personaPoster_3.png
 colors:
     gradient_left: "#155799"
