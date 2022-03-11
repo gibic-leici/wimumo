@@ -6,6 +6,8 @@ WIMUMO Pulse is a derivation of the WIMUMO project in collaboration with [Joaqu√
 |:--:| 
 | *Collaborative art at Proyecto Bios. The eyes blink and vibrate in resonance with the heartbeat.* |
 
+WIMUMO is made by the [GIBIC group](www.gibic.ar) at [LEICI](leici.ing.unlp.edu.ar) Research Institute (UNLP-CONICET-CIC), La Plata, Argentina in collaboration with Tob√≠as Albirosa (Multimedia) and Alejandra Ceriani (Performance) from the Arts Faculty, UNLP. 
+
 # What is WIMUMO? 
 
 WIMUMO is a wireless device capable of measuring electrical signals from the body. The most well-known electrophysiological or biopotential signal is the electrocardiogram (ECG) that almost everyone has experiences at a doctor's office at some point. But other biopotentials can also be measured, such as those coming from the muscles (called electromyogram or EMG), brain (EEG) or eyes (EOG).
@@ -51,4 +53,4 @@ To use biopotentials in performance or artistic works of any kind, WIMUMO measur
 
 This envelope is a clear indication of the force exerted with one or several muscles or the more salient features of ECG. WIMUMO sends this to music or video generation programs and can then, for example, be used to raise or lower the volume of a musical note, shine lights, operate haptic actuators, etc. In this way, when a person in a performance moves, or, being immobile, makes an effort with her muscles, or just explores unconsious processes such as the heartbeat, she can create a multimedia scenery externalizing this otherwise invisible biopotential signals and thereby a hiden inner world.
 
-![Sample video of a performance with Alejandra Ceriani](video_fondo_web_2.mp4)
+Click [here](https://www.youtube.com/watch?v=pGY5zdzPMx8) for a YouTube video explaining WIMUMO in spanish, and [here](https://www.youtube.com/watch?v=nJY9ffSgEIc&ab_channel=Danzainteractiva) or [here](https://www.youtube.com/watch?v=l0lJ-djQ9V0&ab_channel=Danzainteractiva) to see rehearsals and perfromances. 
