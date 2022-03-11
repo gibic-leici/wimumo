@@ -2,7 +2,7 @@
 
 WIMUMO Pulse is a derivation of the WIMUMO project in collaboration with [Joaquín Fargas](http://www.joaquinfargas.com/) by which we can transmit the beating heart of one or more persons directly to the hands of hundreds of others, in a way which allows feeling the vital pulse synesthetically by visual, sonorous, and tactile cues. This performance was born during the isolation period due to the COVID19 pandemic as an exploration of the ability of technology to convey more than image and sound, to overcome the absence of touch and the feeling of presence that was evidently lacking in our virtual meetings. It was a powerful and moving experience, and we continue its exploration in new directions. 
 
-![Collaborative art at Proyecto Bios](/images/fig_bios.jpg)
+![Collaborative art at Proyecto Bios](/images/fig_bios.png)
 
 # What is WIMUMO? 
 
